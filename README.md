@@ -1,7 +1,7 @@
 # JogoSenha
 Jogo cujo objetivo é descobrir uma senha de 4 dígitos, em 10 tentativas. Feito em linguagem C.
 
-Neste projeto, segui o seguinte raciocínio:
+Neste projeto, segui o seguinte raciocinio:
 
 Criei três vetores de 4 posições, SENHA, senhadig, e result. 
 
